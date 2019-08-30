@@ -1,4 +1,4 @@
-This folder contains MATLAB code for finding active electrodes. The codes calculate various metrics for active electrode selection and then perform clustering in the space defined by the metrics to find the active electrodes.
+This folder contains MATLAB code for finding electrophysiologically active electrodes for iEEG that are activated during a task. The codes calculate various metrics for active electrode selection and then perform clustering in the space defined by the metrics to find the active electrodes.
 
 Description:
 
